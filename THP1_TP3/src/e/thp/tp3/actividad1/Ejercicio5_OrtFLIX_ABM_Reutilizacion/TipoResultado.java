@@ -1,0 +1,5 @@
+package e.thp.tp3.actividad1.Ejercicio5_OrtFLIX_ABM_Reutilizacion;
+
+public enum TipoResultado {
+	CLIENTE_INEXISTENTE, CONTENIDO_INEXISTENTE, CONTENIDO_NO_DISPONIBLE, OK, CLIENTE_EXISTENTE, CLIENTE_DEUDOR, ALTA_OK
+}
